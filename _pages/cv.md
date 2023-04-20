@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my CV [here](https://usmangohar.github.io/files/UsmanGohar_CV.pdf.)
+You can access my CV [here](https://usmangohar.github.io/files/UsmanGohar_CV.pdf)
 
 Education
 ======
